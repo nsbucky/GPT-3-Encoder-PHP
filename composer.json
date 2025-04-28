@@ -31,5 +31,9 @@
 	"issues": "https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP/issues",
 	"wiki": "https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP/wiki",
 	"source": "https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP"
-    }
+    },
+    "type": "library",
+    "autoload": {
+        "files": ["gpt3-encoder.php"]
+    }    
 }
